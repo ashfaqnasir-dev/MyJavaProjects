@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+
+# Eclipse/VS Code settings
+.vscode/
+bin/
+
+# Logs
+*.log
